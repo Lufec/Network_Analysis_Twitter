@@ -1,4 +1,4 @@
-# Network_Analysis_Twitter
+# Network Analysis on Twitter
 
 Esse reposítório consiste na coleta de tweets referentes ao assunto da Tensão entre Rússia e Ucrânia onde uma rede de retweets foi construída e analisada para avaliar quais são os usuários que possuem maior número de retweets em suas postagens e quais usuários realizam mais retweets sobre o assunto.
 
@@ -25,5 +25,7 @@ Para visualizar o grafo no Gephi, é necessário salvar o grafo construído no c
 
 Por fim, para executar o deploy do grafo gerado via Gephi, é preciso executar o seguinte comando
 
+```
 python -m http.server
-
+```
+![image](https://user-images.githubusercontent.com/30414428/154771407-1ac4868d-68ff-46c3-85ad-5b853b3e43aa.png)
