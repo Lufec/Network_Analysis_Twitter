@@ -32,3 +32,6 @@ Por fim, para executar o deploy do grafo gerado via Gephi, é preciso executar o
 python -m http.server
 ```
 ![image](https://user-images.githubusercontent.com/30414428/154771407-1ac4868d-68ff-46c3-85ad-5b853b3e43aa.png)
+
+Código e projeto foi baseado no seguinte repositório de Ivanocvitch Silva
+https://github.com/ivanovitchm/network_analysis_2021
