@@ -21,6 +21,9 @@ Os tweets coletados passam por dois filtros: um para recuperar apenas os retweet
 
 É possível utilizar mais funções dentro do Pandas e do NetworkX para realizar análises mais profundas.
 
+![image](https://user-images.githubusercontent.com/30414428/154771439-c423d4b5-868e-42d6-acbe-d933d2d7d951.png)
+
+
 Para visualizar o grafo no Gephi, é necessário salvar o grafo construído no código.
 
 Por fim, para executar o deploy do grafo gerado via Gephi, é preciso executar o seguinte comando
