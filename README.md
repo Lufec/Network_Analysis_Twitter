@@ -35,3 +35,6 @@ python -m http.server
 
 Código e projeto foi baseado no seguinte repositório de Ivanocvitch Silva
 https://github.com/ivanovitchm/network_analysis_2021
+
+Artigo no medium explanando a problemática
+https://medium.com/@lufecf/an%C3%A1lise-de-redes-retweets-sobre-as-tens%C3%B5es-entre-r%C3%BAssia-e-ucr%C3%A2nia-b499a62537b5
